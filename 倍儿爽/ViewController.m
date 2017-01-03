@@ -20,7 +20,7 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
-//谁呀 wo ya 
+//谁呀 wo ya   LY
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
